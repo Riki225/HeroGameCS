@@ -1,0 +1,36 @@
+E:\Projects2021\Marina P\GameApi\GameLib\bin\Debug\net5.0\GameLib.deps.json
+E:\Projects2021\Marina P\GameApi\GameLib\bin\Debug\net5.0\GameLib.dll
+E:\Projects2021\Marina P\GameApi\GameLib\bin\Debug\net5.0\ref\GameLib.dll
+E:\Projects2021\Marina P\GameApi\GameLib\bin\Debug\net5.0\GameLib.pdb
+E:\Projects2021\Marina P\GameApi\GameLib\obj\Debug\net5.0\GameLib.csproj.AssemblyReference.cache
+E:\Projects2021\Marina P\GameApi\GameLib\obj\Debug\net5.0\GameLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects2021\Marina P\GameApi\GameLib\obj\Debug\net5.0\GameLib.AssemblyInfoInputs.cache
+E:\Projects2021\Marina P\GameApi\GameLib\obj\Debug\net5.0\GameLib.AssemblyInfo.cs
+E:\Projects2021\Marina P\GameApi\GameLib\obj\Debug\net5.0\GameLib.csproj.CoreCompileInputs.cache
+E:\Projects2021\Marina P\GameApi\GameLib\obj\Debug\net5.0\GameLib.dll
+E:\Projects2021\Marina P\GameApi\GameLib\obj\Debug\net5.0\ref\GameLib.dll
+E:\Projects2021\Marina P\GameApi\GameLib\obj\Debug\net5.0\GameLib.pdb
+C:\GameApi\GameLib\bin\Debug\net5.0\GameLib.deps.json
+C:\GameApi\GameLib\bin\Debug\net5.0\GameLib.dll
+C:\GameApi\GameLib\bin\Debug\net5.0\ref\GameLib.dll
+C:\GameApi\GameLib\bin\Debug\net5.0\GameLib.pdb
+C:\GameApi\GameLib\obj\Debug\net5.0\GameLib.csproj.AssemblyReference.cache
+C:\GameApi\GameLib\obj\Debug\net5.0\GameLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameApi\GameLib\obj\Debug\net5.0\GameLib.AssemblyInfoInputs.cache
+C:\GameApi\GameLib\obj\Debug\net5.0\GameLib.AssemblyInfo.cs
+C:\GameApi\GameLib\obj\Debug\net5.0\GameLib.csproj.CoreCompileInputs.cache
+C:\GameApi\GameLib\obj\Debug\net5.0\GameLib.dll
+C:\GameApi\GameLib\obj\Debug\net5.0\ref\GameLib.dll
+C:\GameApi\GameLib\obj\Debug\net5.0\GameLib.pdb
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\bin\Debug\net5.0\GameLib.deps.json
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\bin\Debug\net5.0\GameLib.dll
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\bin\Debug\net5.0\ref\GameLib.dll
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\bin\Debug\net5.0\GameLib.pdb
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\obj\Debug\net5.0\GameLib.csprojAssemblyReference.cache
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\obj\Debug\net5.0\GameLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\obj\Debug\net5.0\GameLib.AssemblyInfoInputs.cache
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\obj\Debug\net5.0\GameLib.AssemblyInfo.cs
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\obj\Debug\net5.0\GameLib.csproj.CoreCompileInputs.cache
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\obj\Debug\net5.0\GameLib.dll
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\obj\Debug\net5.0\ref\GameLib.dll
+C:\Users\suzuk\Projects\GameHeroCS\GameLib\obj\Debug\net5.0\GameLib.pdb

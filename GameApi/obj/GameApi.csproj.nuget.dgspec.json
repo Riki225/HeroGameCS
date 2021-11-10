@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\suzuk\\Projects\\GameHeroCS\\GameApi\\GameApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\suzuk\\Projects\\GameHeroCS\\CharactersLib\\CharactersLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suzuk\\Projects\\GameHeroCS\\CharactersLib\\CharactersLib.csproj",
+        "projectName": "CharactersLib",
+        "projectPath": "C:\\Users\\suzuk\\Projects\\GameHeroCS\\CharactersLib\\CharactersLib.csproj",
+        "packagesPath": "C:\\Users\\suzuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suzuk\\Projects\\GameHeroCS\\CharactersLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\suzuk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\suzuk\\Projects\\GameHeroCS\\GameApi\\GameApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suzuk\\Projects\\GameHeroCS\\GameApi\\GameApi.csproj",
+        "projectName": "GameApi",
+        "projectPath": "C:\\Users\\suzuk\\Projects\\GameHeroCS\\GameApi\\GameApi.csproj",
+        "packagesPath": "C:\\Users\\suzuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suzuk\\Projects\\GameHeroCS\\GameApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\suzuk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\suzuk\\Projects\\GameHeroCS\\CharactersLib\\CharactersLib.csproj": {
+                "projectPath": "C:\\Users\\suzuk\\Projects\\GameHeroCS\\CharactersLib\\CharactersLib.csproj"
+              },
+              "C:\\Users\\suzuk\\Projects\\GameHeroCS\\GameLib\\GameLib.csproj": {
+                "projectPath": "C:\\Users\\suzuk\\Projects\\GameHeroCS\\GameLib\\GameLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\suzuk\\Projects\\GameHeroCS\\GameLib\\GameLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suzuk\\Projects\\GameHeroCS\\GameLib\\GameLib.csproj",
+        "projectName": "GameLib",
+        "projectPath": "C:\\Users\\suzuk\\Projects\\GameHeroCS\\GameLib\\GameLib.csproj",
+        "packagesPath": "C:\\Users\\suzuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suzuk\\Projects\\GameHeroCS\\GameLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\suzuk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

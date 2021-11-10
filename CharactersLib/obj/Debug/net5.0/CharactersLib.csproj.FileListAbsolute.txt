@@ -1,0 +1,36 @@
+E:\Projects2021\Marina P\GameApi\CharactersLib\bin\Debug\net5.0\CharactersLib.deps.json
+E:\Projects2021\Marina P\GameApi\CharactersLib\bin\Debug\net5.0\CharactersLib.dll
+E:\Projects2021\Marina P\GameApi\CharactersLib\bin\Debug\net5.0\ref\CharactersLib.dll
+E:\Projects2021\Marina P\GameApi\CharactersLib\bin\Debug\net5.0\CharactersLib.pdb
+E:\Projects2021\Marina P\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.csproj.AssemblyReference.cache
+E:\Projects2021\Marina P\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects2021\Marina P\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.AssemblyInfoInputs.cache
+E:\Projects2021\Marina P\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.AssemblyInfo.cs
+E:\Projects2021\Marina P\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.csproj.CoreCompileInputs.cache
+E:\Projects2021\Marina P\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.dll
+E:\Projects2021\Marina P\GameApi\CharactersLib\obj\Debug\net5.0\ref\CharactersLib.dll
+E:\Projects2021\Marina P\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.pdb
+C:\GameApi\CharactersLib\bin\Debug\net5.0\CharactersLib.deps.json
+C:\GameApi\CharactersLib\bin\Debug\net5.0\CharactersLib.dll
+C:\GameApi\CharactersLib\bin\Debug\net5.0\ref\CharactersLib.dll
+C:\GameApi\CharactersLib\bin\Debug\net5.0\CharactersLib.pdb
+C:\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.csproj.AssemblyReference.cache
+C:\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.AssemblyInfoInputs.cache
+C:\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.AssemblyInfo.cs
+C:\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.csproj.CoreCompileInputs.cache
+C:\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.dll
+C:\GameApi\CharactersLib\obj\Debug\net5.0\ref\CharactersLib.dll
+C:\GameApi\CharactersLib\obj\Debug\net5.0\CharactersLib.pdb
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\bin\Debug\net5.0\CharactersLib.deps.json
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\bin\Debug\net5.0\CharactersLib.dll
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\bin\Debug\net5.0\ref\CharactersLib.dll
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\bin\Debug\net5.0\CharactersLib.pdb
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\obj\Debug\net5.0\CharactersLib.csprojAssemblyReference.cache
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\obj\Debug\net5.0\CharactersLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\obj\Debug\net5.0\CharactersLib.AssemblyInfoInputs.cache
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\obj\Debug\net5.0\CharactersLib.AssemblyInfo.cs
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\obj\Debug\net5.0\CharactersLib.csproj.CoreCompileInputs.cache
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\obj\Debug\net5.0\CharactersLib.dll
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\obj\Debug\net5.0\ref\CharactersLib.dll
+C:\Users\suzuk\Projects\GameHeroCS\CharactersLib\obj\Debug\net5.0\CharactersLib.pdb

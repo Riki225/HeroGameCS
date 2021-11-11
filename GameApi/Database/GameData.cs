@@ -35,10 +35,10 @@ namespace GameApi.Database
             {
                  SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder() 
                  {
-                     DataSource = "projectdb.cltevfqwsaia.us-east-1.rds.amazonaws.com",
-                     UserID = "admin",
-                     Password = "afkfarm2",
-                     InitialCatalog = "ProjectDB"
+                    DataSource = "MasterDB.mssql.somee.com",
+                    UserID = "103475494DB",
+                    Password = "afkfarm22",
+                    InitialCatalog = "MasterDB"
                  };
                  return builder.ConnectionString;
             }
@@ -67,7 +67,7 @@ namespace GameApi.Database
             {
                 // we failed to connect to the primary database, try connecting to the secondary
                 if (source == "primary") {
-                    Connect("secondary"); // attempt sql connection with secondary database
+                    Connect("secondary"); // attempt sql connection with cloud database
                 }
                 else {
                     throw new Exception("Unable to open connection to the "+ source +" database: " + e.Message);
@@ -186,9 +186,15 @@ namespace GameApi.Database
                 {
                     connection.Open();
 
-                    string query = "INSERT INTO GAMERESULTS (Created, WinnerName) " +
-                                    "VALUES (@Created, @WinnerName)";
+                    string query = "INSERT INTO GAMERESULTS (GameResultsID, Created, WinnerName) " +
+                                    "VALUES (@GameResultsID, @Created, @WinnerName)";
                     SqlCommand command = new SqlCommand(query, connection);
+
+                    SqlParameter gameresultidParameter = new SqlParameter() {
+                        ParameterName = "@GameResultsID",
+                        SqlDbType = SqlDbType.Int,
+                        Value = gameResults.GameResultsID
+                    };
 
                     SqlParameter createdParameter = new SqlParameter() {
                         ParameterName = "@Created",
@@ -201,7 +207,8 @@ namespace GameApi.Database
                         SqlDbType = SqlDbType.NVarChar,
                         Value = gameResults.WinnerName
                     };
-
+                    
+                    command.Parameters.Add(gameresultidParameter);
                     command.Parameters.Add(createdParameter);
                     command.Parameters.Add(winnerNameParameter);
 

@@ -2,7 +2,6 @@ CREATE DATABASE RikiDB
 CREATE DATABASE ProjectDB
 -- Drop DATABASE AdamProject
 USE ProjectDB
-USE RikiDB
 
 IF OBJECT_ID('GAMERESULTS') IS NOT NULL
 DROP TABLE GAMERESULTS;
@@ -18,7 +17,7 @@ select * from Hero
 GO
 
 CREATE TABLE GAMERESULTS(
-    GameResultsID int PRIMARY KEY,
+    GameResultsID int,
     Created DATETIME,
     WinnerName NVARCHAR(100)
 )
@@ -58,5 +57,5 @@ INSERT INTO VILLAIN(VillainID, VillainName, VillainHealth, ImageFileName) VALUES
 (3, 'TerroristTed',6,'TerroristTed.png');
 
 
-select * from villain
+select * from GameResults
 

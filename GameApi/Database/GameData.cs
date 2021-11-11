@@ -20,7 +20,7 @@ namespace GameApi.Database
                      DataSource = "rikidatabase.cltevfqwsaia.us-east-1.rds.amazonaws.com",
                      UserID = "admin",
                      Password = "afkfarm2",
-                     InitialCatalog = "RikiDB"
+                     InitialCatalog = "ProjectDB"
                  };
                  return builder.ConnectionString;
             }
@@ -38,7 +38,7 @@ namespace GameApi.Database
                      DataSource = "projectdb.cltevfqwsaia.us-east-1.rds.amazonaws.com",
                      UserID = "admin",
                      Password = "afkfarm2",
-                     InitialCatalog = "RikiDB"
+                     InitialCatalog = "ProjectDB"
                  };
                  return builder.ConnectionString;
             }

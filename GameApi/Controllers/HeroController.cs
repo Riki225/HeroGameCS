@@ -23,7 +23,7 @@ namespace GameApi.Controllers
             return _heroList;
         }
         
-        [HttpGet("HerobyName")]
+        [HttpGet("{lookupName}")]
         public Hero GetHeroByName(string lookupName) 
         {
             foreach(Hero h in this._heroList ) 

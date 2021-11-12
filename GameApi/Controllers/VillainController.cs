@@ -23,7 +23,7 @@ namespace GameApi.Controllers
             return this._villainList;
         }
 
-          [HttpGet("VillainbyName")]
+          [HttpGet("{lookupName}")]
         public Villain GetVillainByName(string lookupName) 
         {
             foreach(Villain v in this._villainList ) 
